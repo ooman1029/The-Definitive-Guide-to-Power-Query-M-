@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 <p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
 
 # The Definitive Guide to Power Query (M), First Edition
